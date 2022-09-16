@@ -1,2 +1,3 @@
 x = "Hola mundo!"
-print(x)
+y = "soy un nuevo desarrollador"
+print(x + " " + y)
